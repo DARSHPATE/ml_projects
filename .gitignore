@@ -5,3 +5,9 @@
 .local
 profile_default/
 ipython_config.py
+.bash_logout
+.bashrc
+.gitconfig
+.lesshst
+.profile
+.bash_history
